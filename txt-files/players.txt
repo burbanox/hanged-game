@@ -1,0 +1,10 @@
+raquel:4
+
+harold:2
+
+vale:1
+
+defe:0
+
+carlos:0
+
