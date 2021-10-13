@@ -1,6 +1,6 @@
-raquel:4
+harold:15
 
-harold:2
+raquel:4
 
 vale:1
 
@@ -8,3 +8,12 @@ defe:0
 
 carlos:0
 
+harold andres:0
+
+carlos francisco:0
+
+valentina:0
+
+valr:0
+
+gaa:0
